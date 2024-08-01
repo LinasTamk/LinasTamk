@@ -7,8 +7,8 @@ Studying [Data Engineering](https://www.turingcollege.com/) at Turing College.<b
 And having solid busines operations experience.<br/>
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=linastamk&show_icons=true&locale=en&layout=compact&theme=vue" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=linastamk&show_icons=false&locale=en&theme=vue" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=linastamk&show_icons=true&locale=en&layout=compact&theme=vue" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=linastamk&show_icons=false&locale=en&theme=vue" />
 </div>
 <div>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
