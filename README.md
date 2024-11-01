@@ -1,5 +1,7 @@
 ### Hi, I'm Linas!
 
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linas-tamkutonis/)](https://www.linkedin.com/in/linas-tamkutonis/) 
+
 - 📢
 
 Data Engineer sharing data engineering journey.<br/>
