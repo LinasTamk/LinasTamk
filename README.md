@@ -1,6 +1,6 @@
 ### Hi, I'm Linas!
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linas-tamkutonis/)](https://www.linkedin.com/in/linas-tamkutonis/) 
+[![Linkedin Badge](https://img.shields.io/badge/-linas-tamkutonis?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linas-tamkutonis/)](https://www.linkedin.com/in/linas-tamkutonis/) 
 
 - 📢
 
